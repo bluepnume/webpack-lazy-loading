@@ -1,0 +1,25 @@
+{
+  "name": "webpack-lazy-load",
+  "version": "1.0.0",
+  "description": "Javascript module template.",
+  "scripts": {
+    "webpack": "webpack --progress"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bluepnume/webpack-lazy-load.git"
+  },
+  "keywords": [
+    "template"
+  ],
+  "licenses": [
+    {
+      "type": "Apache 2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
+    }
+  ],
+  "readmeFilename": "README.md",
+  "devDependencies": {
+    "grumbler-scripts": "^3"
+  }
+}
