@@ -10,3 +10,7 @@ export function foo() {
         mod.lazyBaz();
     });
 }
+
+export function lazyFoo() {
+    console.log('lazyfoo123');
+}
